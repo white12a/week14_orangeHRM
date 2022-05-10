@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="home-office-visa-check"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.304">
+  <properties />
+  
+  
+            <testcase name="verifyThatTheLogoDisplayOnHomePage" time="2.626" classname="com.orangehrmlive.demo.testsuite.LogInTest" />
+                <testcase name="verifyUserShouldLogOutSuccessFully" time="3.851" classname="com.orangehrmlive.demo.testsuite.LogInTest" />
+                <testcase name="verifyUserShouldLoginSuccessFully" time="2.827" classname="com.orangehrmlive.demo.testsuite.LogInTest" />
+      
+</testsuite>
